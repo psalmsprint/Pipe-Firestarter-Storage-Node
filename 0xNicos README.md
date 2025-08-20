@@ -186,10 +186,6 @@ You can upload files from your phone to your VPS using the **SFTP feature** in T
 
 <img width="1705" height="497" alt="image" src="https://github.com/user-attachments/assets/c1b3f1d3-7973-4471-90b0-d042f2794e40" />
 
-### Upload Your File from [here](https://github.com/psalmsprint/Pipe-Firestarter-Storage-Node/new/main?readme=1#upload-a-file)
-### Get public link of your upload files from [here](https://github.com/psalmsprint/Pipe-Firestarter-Storage-Node/new/main?readme=1#create-public-link)
-Done✔️
-
 
 If you have any issue open an issue on this repo or Dm me on [x](x.com/0xNicos)
 
