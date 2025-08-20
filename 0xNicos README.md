@@ -179,7 +179,7 @@ You can upload files from your phone to your VPS using the **SFTP feature** in T
 
 
 							 
-# Get 🔥Firestarter Role
+# Get Firestarter Role
 ``` join pipe discord ``` [join pipe discord](https://discord.gg/uzxDBxEb)
 
 ##Role Requirement👇
